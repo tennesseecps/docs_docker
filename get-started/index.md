@@ -57,7 +57,7 @@ redirect_from:
 - /windows/step_two/
 ---
 
-Welcome! We're excited that you want to learn Docker.
+Welcome Tennessee ! We're excited that you want to learn Docker.
 
 This guide contains step-by-step instructions on how to get started with Docker. Some of the things you'll learn and do in this guide are:
 
